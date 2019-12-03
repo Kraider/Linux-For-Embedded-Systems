@@ -11,7 +11,8 @@ Ssh to the pi with IP address 192.168.99.26
 ssh pi@192.168.99.26
 password=raspberry
 
-Step 3: copy test.py file to /etc/init.d/
+Step 3: run test.py
+python /etc/init.d/test.py
 
 ### Commands
 
